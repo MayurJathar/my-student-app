@@ -1,0 +1,5 @@
+{
+  "name": "College Student Portal",
+  "description": "A web application for college students to log in using their student ID and fill in their personal details such as name and address.",
+  "requestFramePermissions": []
+}
